@@ -19,14 +19,4 @@ Registrations will available on December 12.
 
 ---
 
-### 🔗 DSC Links
-
-[Official Community Page](https://dsc.community.dev/athens-university-of-economics-and-business/)
-
-[Discord Server](https://discord.gg/C2TXnJyUma)
-
-[Facebook](https://www.facebook.com/dscaueb)
-
-[Instagram](https://www.instagram.com/dsc_aueb/)
-
-[YouTube Channel](https://www.youtube.com/channel/UCgGNQk-OYb7cvK_jFq5VoCQ)
+## 🔗 [DSC Main Page](https://github.com/dsc-aueb/dsc-aueb)
