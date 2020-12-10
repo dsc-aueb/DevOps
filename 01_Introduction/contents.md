@@ -1,8 +1,11 @@
 # Introduction to DevOps
 
-Guest Host:
-[Kai Hendry](https://twitter.com/kaihendry) - 
-[YouTuber](https://www.youtube.com/user/kaihendry) / DevOps Engineer
+Guest Host:<br>
+**Kai Hendry**<br>
+<em>[YouTuber](https://www.youtube.com/user/kaihendry) / DevOps Engineer</em><br>
+[Website](https://hendry.iki.fi/) | 
+[Twitter](https://twitter.com/kaihendry)<br>
+Email: hendry@iki.fi
 
 ## Intro
 
@@ -29,5 +32,9 @@ A short introduction of the hosts and what subjects we going to talk about on th
   - Kubernetes
 
 &nbsp;
+
+## 🔗 Other Links
+
+The blog-post mentioned in our talk: https://natalian.org/2019/05/16/Microservices_pitfalls/
 
 ## Q&A
