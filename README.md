@@ -12,7 +12,18 @@ In this repository I will include any useful links, code snippets, scripts or ot
 
 ### [Introduction to DevOps](https://dsc.community.dev/j/gx9ywyhvsbnyf/)
 
-[Event Notes](https://github.com/ispanos/dsc_aueb_devops/blob/main/01_Introduction/contents.md)
+Guest Host:<br>
+**Kai Hendry**<br>
+<em>[YouTuber](https://www.youtube.com/user/kaihendry) / DevOps Engineer</em><br>
+[Website](https://hendry.iki.fi/) | 
+[Twitter](https://twitter.com/kaihendry)<br>
+Email: hendry@iki.fi
+
+**Yiannis Spanos**<br>
+<em>Linux / DevOps Enthousiast</em><br>
+[Twitter](https://twitter.com/yiannisvspanos)<br>
+
+[Event Notes](https://github.com/dsc-aueb/DevOps/blob/main/01_Introduction/contents.md)
 
 Recently we talked about git and how to use it to work on a project with multiple colleagues. This Saturday we are going to learn how to scale our infrastructure and improve the frequency of new product releases, while also maintaining the reliability and security of our software. The collection of practices and tools that help us achieve those goals is called DevOps (Development Operations).
 
