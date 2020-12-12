@@ -10,7 +10,7 @@ In this repository I will include any useful links, code snippets, scripts or ot
 
 ## Upcoming Event
 
-### [Introduction to DevOps](https://dsc.community.dev/j/gx9ywyhvsbnyf/)
+### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
 
 Guest Host:<br>
 **Kai Hendry**<br>
