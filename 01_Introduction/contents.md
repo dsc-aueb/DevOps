@@ -1,4 +1,4 @@
-# Introduction to DevOps
+# [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
 
 Guest Host:<br>
 **Kai Hendry**<br>
