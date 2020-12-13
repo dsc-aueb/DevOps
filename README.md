@@ -1,14 +1,14 @@
-# ![Official Community Page](./logo.png) Developer Student Clubs
+# ![Official Community Page](https://raw.githubusercontent.com/dsc-aueb/dsc-aueb/main/logo.png) Developer Student Clubs
 
 ## Athens University of Economics and Business
 
-### About this repository
+### ℹ️ About this repository
 
 In this repository I will include any useful links, code snippets, scripts or other resources mentioned in my presentations.
 
 ---
 
-## Upcoming Event
+## 🎫 Upcoming Event
 
 ### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
 
