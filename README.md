@@ -1,7 +1,4 @@
-# Please answer the following two questions:
-- [Are you ok with Dev-Ops events being in English?](https://www.strawpoll.me/42303442)
-- [What topic's interest you the most?](https://www.strawpoll.me/42303486)
-
+# 
 # ![Official Community Page](https://raw.githubusercontent.com/dsc-aueb/dsc-aueb/main/logo.png) Developer Student Clubs
 
 ## Athens University of Economics and Business
@@ -14,7 +11,15 @@ In this repository I will include any useful links, code snippets, scripts or ot
 
 ## 🎫 Upcoming Event
 
+To be announced
+
+## 🎫 Past Events
+
 ### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
+
+Please answer the following two questions:
+- [Are you ok with Dev-Ops events being in English?](https://www.strawpoll.me/42303442)
+- [What topic's interest you the most?](https://www.strawpoll.me/42303486)
 
 Guest Host:<br>
 **Kai Hendry**<br>
